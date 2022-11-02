@@ -1,2 +1,2 @@
-# visual_control
+# Flip Through
 Flip through - Visual image control
